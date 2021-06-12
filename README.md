@@ -1,2 +1,2 @@
 # Email-Using-Python
-Send emails/"phone texts" using a python program
+Send emails/"phone texts" using a Python program.
